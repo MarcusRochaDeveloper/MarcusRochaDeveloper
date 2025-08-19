@@ -8,19 +8,7 @@ With a background in IT and software development, I am passionate about creating
 
 ## Skills & Technologies
 
-c,cpp,django,flask,git,github,mysql,postgres,html,css,react,vue,docker,aws
-
-## Top Projects
-
-- [Apex-Client](https://github.com/MarcusRochaDeveloper/Apex-Client) 
-  * CRUD project for SENAI 
-  * ⭐ 1 star | 🗂 0 forks | 🔧 Language: C# 
-- [Sistema-de-classes-POO](https://github.com/MarcusRochaDeveloper/Sistema-de-classes-POO) 
-  * Object-Oriented Programming System 
-  * ⭐ 0 stars | 🗂 0 forks | 🔧 Language: Python 
-- [ModificadoresAcesso](https://github.com/MarcusRochaDeveloper/ModificadoresAcesso) 
-  * Project focusing on access modifiers 
-  * ⭐ 0 stars | 🗂 0 forks | 🔧 Language: Python
+c,cpp,django,flask,git,github,mysql,postgres,html,css,react,vue,docker,aws,java
 
 ## GitHub Stats
 
@@ -30,18 +18,17 @@ c,cpp,django,flask,git,github,mysql,postgres,html,css,react,vue,docker,aws
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcusRochaDeveloper&show_icons=true&theme=radical)
 
-## Recent Activity
+## Publications
 
-- **Updated README.md** in [ModificadoresAcesso](https://github.com/MarcusRochaDeveloper/ModificadoresAcesso) 
-- **Added files via upload** in [ModificadoresAcesso](https://github.com/MarcusRochaDeveloper/ModificadoresAcesso) 
-- **Created the repository** [Sistema-de-classes-POO](https://github.com/MarcusRochaDeveloper/Sistema-de-classes-POO) 
-- **Pushed changes** to [Sistema-de-classes-POO](https://github.com/MarcusRochaDeveloper/Sistema-de-classes-POO) 
-- **Watched** [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Publication Title](link-to-publication) - Journal/Conference, Year
 
-## Latest Blog Posts
+## ASCII Art
 
-Currently, I don't have any blog posts to share, but I'm working on creating content that reflects my projects and learning experiences.
-
-## Connect with Me
-
-{}
+```
+  __  __                          ____            _           ____                 _                       
+ |  \/  | __ _ _ __ ___ _   _ ___|  _ \ ___   ___| |__   __ _|  _ \  _____   _____| | ___  _ __   ___ _ __ 
+ | |\/| |/ _` | '__/ __| | | / __| |_) / _ \ / __| '_ \ / _` | | | |/ _ \ \ / / _ \ |/ _ \| '_ \ / _ \ '__|
+ | |  | | (_| | | | (__| |_| \__ \  _ < (_) | (__| | | | (_| | |_| |  __/\ V /  __/ | (_) | |_) |  __/ |   
+ |_|  |_|\__,_|_|  \___|\__,_|___/_| \_\___/ \___|_| |_|\__,_|____/ \___| \_/ \___|_|\___/| .__/ \___|_|   
+                                                                                          |_|              
+```
