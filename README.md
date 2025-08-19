@@ -32,9 +32,6 @@ With a background in IT and software development, I am passionate about creating
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcusRochaDeveloper&show_icons=true&theme=radical)
 
-## Publications
-
-- [Publication Title](link-to-publication) - Journal/Conference, Year
 
 ## ASCII Art
 
