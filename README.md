@@ -1,66 +1,55 @@
-## Hi there! 👋
+👋 Hi, I'm Marcus 💻 IT Technician & Systems Developer 🔧 Crafting practical software and automation solutions 🚀 Focused on back-end development.
 
-I'm **Marcus Rocha**, an IT Technician & Systems Developer from **Brasil**. I specialize in crafting practical software and automation solutions, with a focus on back-end development.
+## Contact Me
+<p><a href="https://www.instagram.com/marcus2k_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-## About Me
+## Skills
 
-I am passionate about technology and its ability to solve complex problems. With a background as an IT Technician, I have honed my skills in systems development, ensuring that I can create efficient and reliable applications. I currently reside in Brasil and am always eager to take on new challenges in the software development space.
-
-## Skills & Technologies
-
-c,cpp,django,flask,nodejs,vue,react,docker,mysql,postgres,git,github,html,css,tailwind,bootstrap,express,fastapi,graphql,redis
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>&nbsp;
+</p>
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusRochaDeveloper&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=MarcusRochaDeveloper&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
-- **Public Repositories:** 5  
-- **Followers:** 1  
-- **Following:** 1  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRochaDeveloper&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRochaDeveloper&layout=compact&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusRochaDeveloper&theme=null" alt="GitHub Streak" />
 
-## Recent Activity
+<img src="https://profile-counter.glitch.me/MarcusRochaDeveloper/count.svg?" alt="visitors count" />
 
-1. **Updated README.md** in [Mindbreaker](https://github.com/MarcusRochaDeveloper/Mindbreaker)  
-2. **Updated README.md** in [MarcusRochaDeveloper](https://github.com/MarcusRochaDeveloper/MarcusRochaDeveloper)  
-3. **Added files via upload** in [Mindbreaker](https://github.com/MarcusRochaDeveloper/Mindbreaker)  
-4. **Created repository** [Mindbreaker](https://github.com/MarcusRochaDeveloper/Mindbreaker)  
-5. **Updated README.md** in [Apex-Client](https://github.com/MarcusRochaDeveloper/Apex-Client)
+## Support Me
 
-## Top Projects
+<a href="https://www.buymeacoffee.com/MarcusRochaDeveloper"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
 
-### [Mindbreaker](https://github.com/MarcusRochaDeveloper/Mindbreaker)
-- **Description:** Impossible Form is an ultra-challenging mini-game where each attempt to submit a form is a battle against chaos.
-- **Stars:** 0  
-- **Language:** JavaScript  
-- **Forks:** 0  
-- **Open Issues:** 0  
+## GitHub Trophies
 
-### [Apex-Client](https://github.com/MarcusRochaDeveloper/Apex-Client)
-- **Description:** CRUD project for SENAI.
-- **Stars:** 1  
-- **Language:** C#  
-- **Forks:** 0  
-- **Open Issues:** 0  
+<img src="https://github-profile-trophy.vercel.app/?username=MarcusRochaDeveloper" alt="trophy" />
 
-### [ModificadoresAcesso](https://github.com/MarcusRochaDeveloper/ModificadoresAcesso)
-- **Description:** Access Modifiers project demonstrating OOP concepts.
-- **Stars:** 0  
-- **Language:** Python  
-- **Forks:** 0  
-- **Open Issues:** 0  
+## GitHub Activity Graph
 
-### [Sistema-de-classes-POO](https://github.com/MarcusRochaDeveloper/Sistema-de-classes-POO)
-- **Description:** Object-oriented classes system implementation.
-- **Stars:** 0  
-- **Language:** Python  
-- **Forks:** 0  
-- **Open Issues:** 0  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusRochaDeveloper&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph" />
 
-### [MarcusRochaDeveloper](https://github.com/MarcusRochaDeveloper/MarcusRochaDeveloper)
-- **Description:** Personal repository showcasing my work and projects.
-- **Stars:** 0  
-- **Language:** Not specified  
-- **Forks:** 0  
-- **Open Issues:** 0  
