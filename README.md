@@ -1,4 +1,5 @@
-👋 Hi, I'm Marcus 💻 IT Technician & Systems Developer 🔧 Crafting practical software and automation solutions 🚀 Focused on back-end development.
+Engenheiro de Software em formação | Técnico em Desenvolvimento de Sistemas  
+Foco em Backend com Java, Spring Boot e Angular
 
 ## Contact Me
 <p><a href="https://www.instagram.com/marcus2k_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
