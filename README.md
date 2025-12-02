@@ -1,53 +1,79 @@
-## 👋 Hi, I'm Marcus  
+<div align="center">
+  <h1 align="center">Hi, I'm Marcus Rocha 👋</h1>
+  <h3>Backend Developer | Software Engineering Student</h3>
+  <p>Building scalable systems with a strong foundation in Infrastructure & Networks.</p>
 
-💻 Engenheiro de Software em formação | Técnico em Desenvolvimento de Sistemas  
-🚀 Foco em Backend com Java, Spring Boot e Angular  
-
-## Contact Me
-<p>
-  <a href="https://www.instagram.com/marcus2k_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.linkedin.com/in/marcus-rocha-213911346/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</p>
+  <a href="mailto:marcusviniciuscarias@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## Skills
+<br/>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-</p>
+## 👨‍💻 About Me
 
-## GitHub Stats
+I am a **Backend Developer** based in Brazil, currently transitioning from a background in **IT Support & Infrastructure** to Software Engineering. My experience with Linux servers, networks, and hardware allows me to write code that is not only functional but optimized for the environment where it runs.
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarcusRochaDeveloper&show_icons=true&count_private=true&theme=null" alt="GitHub Stats" />
+- 🔭 I’m currently working on a **Task Manager System (Python/MySQL)** and a **Library Management System (C)**.
+- 🎓 Studying **Systems Development** at SENAI and **Software Engineering**.
+- ⚡ **Core focus:** Java, Python, Data Structures, and System Architecture.
+- 💡 I believe in Clean Code and DevOps culture.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRochaDeveloper&layout=compact&theme=null" alt="Top Languages" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusRochaDeveloper&theme=null" alt="GitHub Streak" />
+## 🚀 Tech Stack
 
-<img src="https://profile-counter.glitch.me/MarcusRochaDeveloper/count.svg?" alt="visitors count" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90"><strong>Languages</strong></td>
+      <td align="center" width="90"><strong>Backend</strong></td>
+      <td align="center" width="90"><strong>Database</strong></td>
+      <td align="center" width="90"><strong>Infra/Tools</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Support Me
+---
 
-<a href="https://www.buymeacoffee.com/marcusrochadeveloper">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
+## 📊 GitHub Stats
 
-## GitHub Trophies
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcusRochaDeveloper&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRochaDeveloper&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MarcusRochaDeveloper" alt="trophy" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusRochaDeveloper&theme=dracula&hide_border=true" alt="streak graph" />
+</div>
 
-## GitHub Activity Graph
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusRochaDeveloper&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MarcusRochaDeveloper/count.svg?" alt="visitors count" />
+</div>
