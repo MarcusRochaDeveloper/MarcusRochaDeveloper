@@ -16,7 +16,7 @@
 I am a **Software Engineering Student** based in Brazil. With more than two years of hands-on experience in IT support and infrastructure, I combine programming knowledge with real-world server, network and hardware skills to develop efficient and stable solutions.
 
 - 🔭 My main projects include **Nexora** — a real-time industrial monitoring system with REST API integration — and a complete **Library Management System** built in C.
-- 🎓 Studying **Técnico em Desenvolvimento de Sistemas** at SENAI Centro 4.0 (conclusion June 2026) and **Bacharelado em Engenharia de Software** at UniCesumar.
+- 🎓 Studying **Técnico em Desenvolvimento de Sistemas** and **Bacharelado em Engenharia de Software**.
 - ⚡ Core focus: Java, Python, C, APIs REST, data structures and system architecture.
 - 💡 I believe in clean code, agile methodologies and learning by doing.
 
